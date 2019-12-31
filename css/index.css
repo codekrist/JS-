@@ -1,0 +1,48 @@
+.Jd_seckill_item {
+    position: relative;
+    color: #fff;
+    width: 190px;
+    height: 260px;
+    background: url('../img/4a15d8883775742e3efbb850ae14def7.png')no-repeat;
+    margin: 0 auto;
+}
+
+.Jd_seckill_item h1 {
+    color: #fff;
+    text-align: center;
+    margin-top: 30px;
+}
+
+.Jd_seckill_item .Jd_seck_bpx {
+    text-align: center;
+    margin-top: 100px;
+}
+
+.Jd_seckill_item .Jd_seck_bpx span {
+    font-size: 14px;
+}
+
+#Jd_timer {
+    text-align: center;
+    margin-top: 12px;
+
+}
+
+#Jd_timer span {
+    display: inline-block;
+    width: 30px;
+    height: 30px;
+    text-align: center;
+    line-height: 30px;
+    background-color: #2f3430;
+    color: white;
+    font-size: 20px;
+    font-weight: 600;
+}
+
+#Jd_timer i {
+    font-style: normal;
+    font-weight: bolder;
+    font-size: 18px;
+    margin: 0 2px 0 5px;
+}
